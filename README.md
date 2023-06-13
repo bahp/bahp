@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- https://learn.adafruit.com/excellent-github-profile/stat-streak-and-trophies -->
+<!-- https://learn.adafruit.com/excellent-github-profile/stat-streak-and-trophies
 
 Here are some GitHub Streak stats...
 
@@ -24,3 +24,5 @@ Here are some GitHub Streak stats...
 Here are some Github trophies...
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bahp)
+
+-->
