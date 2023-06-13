@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- https://learn.adafruit.com/excellent-github-profile/stat-streak-and-trophies -->
+
+Here are some GitHub Streak stats...
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
+
+Here are some Github trophies...
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bahp)
